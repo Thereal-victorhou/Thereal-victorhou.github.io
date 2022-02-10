@@ -4808,3 +4808,54 @@ input, select, textarea {
 		}
 
 	}
+
+
+	.github-link {
+		color: rgb(186, 186, 186);
+		height: 2rem;
+		width: 2rem;
+		text-decoration: none;
+		list-style: none;
+	}
+
+	.github-link:hover{
+		color: #18bfef !important;
+	}
+
+	.linkedIn-link {
+		color: rgb(186, 186, 186);
+		height: 2rem;
+		width: 2rem;
+	}
+
+	.linkedIn-link:hover {
+		color: #18bfef !important;
+	}
+
+	.angleList-link {
+		color: rgb(187, 187, 187);
+		height: 2rem;
+		width: 2rem;
+	}
+
+	.angleList-link:hover {
+		color: #18bfef !important;
+	}
+
+	.resume-link {
+		display: flex;
+		flex-direction: row;
+		align-items: center;
+		justify-content: center;
+		height: 3rem;
+		font-size: 20px;
+	}
+
+	.resume-link p{
+		margin-top: 2rem;
+		color: rgb(187, 187, 187);
+	}
+
+	.resume-link p:hover {
+		color: #18bfef !important;
+	}
