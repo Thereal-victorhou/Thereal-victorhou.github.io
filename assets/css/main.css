@@ -2901,11 +2901,11 @@ input, select, textarea {
 		box-shadow: inset 0 0 0 2px #18bfef;
 	}
 
-	.dev-tech-icons {
+	/* .dev-tech-icons {
 		display: flex;
 		flex-flow: row wrap;
 		justify-content: center;
-	}
+	} */
 
 	.iconify.icon {
 		height: 3rem;
@@ -2916,7 +2916,7 @@ input, select, textarea {
 		margin-right: 1rem;
 	}
 		/* Project1 */
-		.icon-cntnr .tooltiptext {
+		/* .icon-cntnr .tooltiptext {
 			visibility: hidden;
 			width: 120px;
 			background-color: rgba(0, 0, 0, 0.625);
@@ -2925,7 +2925,7 @@ input, select, textarea {
 			border-radius: 6px;
 			padding: 5px 0;
 
-			/* Position the tooltip */
+			Position the tooltip
 			position: absolute;
 			z-index: 1;
 			top: 54.5%;
@@ -2937,33 +2937,33 @@ input, select, textarea {
 		.icon-cntnr:hover .tooltiptext{
 			visibility: visible;
 
-		}
+		} */
 
 		/* Project 2 */
-		.icon-cntnr .tooltiptext2 {
+		/* .icon-cntnr .tooltiptext2 {
 			visibility: hidden;
 			width: 120px;
 			background-color: rgba(0, 0, 0, 0.625);
 			color: #fff;
 			text-align: center;
 			border-radius: 6px;
-			padding: 5px 0;
+			padding: 5px 0; */
 
 			/* Position the tooltip */
-			position: absolute;
+			/* position: absolute;
 			z-index: 1;
 			top: 54.8%;
 			left: 75%;
 			margin-left: -60px;
 
-		}
+		} */
 
-		.icon-cntnr:hover .tooltiptext2{
+		/* .icon-cntnr:hover .tooltiptext2{
 			visibility: visible;
-		}
+		} */
 
 		/* Project 3 */
-		.icon-cntnr .tooltiptext3 {
+		/* .icon-cntnr .tooltiptext3 {
 			visibility: hidden;
 			width: 120px;
 			background-color: rgba(0, 0, 0, 0.625);
@@ -2972,41 +2972,41 @@ input, select, textarea {
 			border-radius: 6px;
 			padding: 5px 0;
 
-			/* Position the tooltip */
+			/* Position the tooltip
 			position: absolute;
 			z-index: 1;
 			top: 89.4%;
 			left: 25%;
 			margin-left: -60px;
 
-		}
+		} */
 
-		.icon-cntnr:hover .tooltiptext3{
+		/* .icon-cntnr:hover .tooltiptext3{
 			visibility: visible;
-		}
+		} */
 
 		/* Project 4 */
-		.icon-cntnr .tooltiptext4 {
+		/* .icon-cntnr .tooltiptext4 {
 			visibility: hidden;
 			width: 120px;
 			background-color: rgba(0, 0, 0, 0.625);
 			color: #fff;
 			text-align: center;
 			border-radius: 6px;
-			padding: 5px 0;
+			padding: 5px 0; */
 
 			/* Position the tooltip */
-			position: absolute;
+			/* position: absolute;
 			z-index: 1;
 			top: 89.4%;
 			left: 75%;
 			margin-left: -60px;
 
-		}
+		} */
 
-		.icon-cntnr:hover .tooltiptext4{
+		/* .icon-cntnr:hover .tooltiptext4{
 			visibility: visible;
-		}
+		} */
 
 	span.dev-tech-icons img{
 		height: 2.4rem;
